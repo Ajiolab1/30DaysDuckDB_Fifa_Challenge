@@ -1,0 +1,1 @@
+# 30DaysDuckDB_Fifa_Challenge
