@@ -28,7 +28,7 @@ Set up Power BI: Install Power BI on your computer and configure it. You can dow
 Handling 'Star' Characters:
 9. Remove the 'star' character from columns where it appears and make sure the columns are in numerical format.
     
-To access the SQL queries for Day 2 to 6: [Click Day2-6](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%202-6.sql)
+To access the SQL queries for Day 2 to 6: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%202-6.sql)
 
 ### Week 2 Challenge:
 
@@ -43,7 +43,7 @@ To access the SQL queries for Day 2 to 6: [Click Day2-6](https://github.com/Ajio
 8. Find the player with the highest POT for each nationality
 9. Rank players by their OVA in descending order within each club
     
-To access the SQL queries for Day 7 to 9: [Click Day7-9](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
+To access the SQL queries for Day 7 to 9: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
 
 
 
