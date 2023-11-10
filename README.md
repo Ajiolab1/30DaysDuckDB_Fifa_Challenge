@@ -11,9 +11,10 @@ We are to create an account with Motherduck: Join the Motherduck community and s
 
 Install DuckDB: Get DuckDB up and running on your local machine. Follow the installation instructions for your specific operating system here: DuckDB Installation Guide: https://duckdb.org/docs/installation.
 
-Set up Power BI: Install Power BI on your computer and configure it. You can download Power BI from the official website here.
+Set up Power BI: Install Power BI on your computer and configure it. You can download Power BI from the official website here: https://powerbi.microsoft.com/en-us/downloads/
 
 _**Day 2-6**_
+See the link to the SQL queries: https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%202-6.sql
 1. Database Creation - Create a DuckDB database named "challenge."
 2. Data Loading - Load the provided CSV files into the DuckDB database. Ensure they are clean and ready for analysis.
 3. Database Access- Access the DuckDB database on Motherduck, our collaborative platform.
