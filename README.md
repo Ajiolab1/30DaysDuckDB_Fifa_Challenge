@@ -5,7 +5,7 @@ This is a 30 days challenge on how to use DuckDB for data analysis
 
 ### Week 1 Challenge:
 
-_**Day 1 - Getting Started**_
+**Day 1 - Getting Started**
 
 We are to create an account with Motherduck: Join the Motherduck community and sign up for an account on Motherduck:https://app.motherduck.com/?auth_flow=signup.
 
@@ -13,7 +13,8 @@ Install DuckDB: Get DuckDB up and running on your local machine. Follow the inst
 
 Set up Power BI: Install Power BI on your computer and configure it. You can download Power BI from the official website here: https://powerbi.microsoft.com/en-us/downloads/
 
-_**Day 2-6**_
+**Day 2-6**
+
 1. Database Creation - Create a DuckDB database named "challenge."
 2. Data Loading - Load the provided CSV files into the DuckDB database. Ensure they are clean and ready for analysis.
 3. Database Access- Access the DuckDB database on Motherduck, our collaborative platform.
@@ -31,7 +32,7 @@ To access the SQL queries for Day 2 to 6: [Click Day2-6](https://github.com/Ajio
 
 ### Week 2 Challenge:
 
-_**Day 7-9**_
+**Day 7-9**
 1. Identify players who possess high value but receive relatively low wages.
 2. Determine the count of players available in the dataset for each position.
 3. Find out which club has the largest representation of players in the dataset.
