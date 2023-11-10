@@ -3,7 +3,7 @@
 
 This is a 30 days challenge on how to use DuckDB for data analysis
 
-###Week 1 Challenge:
+### Week 1 Challenge:
 
 _**Day 1 - Getting Started**_
 
@@ -29,7 +29,7 @@ Handling 'Star' Characters:
     
 To access the SQL queries for Day 2 to 6: [Click Day2-6](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%202-6.sql)
 
-###Week 2 Challenge:
+### Week 2 Challenge:
 
 _**Day 7-9**_
 1. Identify players who possess high value but receive relatively low wages.
