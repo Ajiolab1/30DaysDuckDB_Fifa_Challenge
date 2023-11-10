@@ -1,4 +1,6 @@
 # 30DaysDuckDB_Fifa_Challenge
+![]fftg_web_banner-02_0.png
+
 This is a 30 days challenge on how to use DuckDB for data analysis
 
 **Week 1 Challenge:** 
