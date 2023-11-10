@@ -1,11 +1,11 @@
 # 30DaysDuckDB_Fifa_Challenge
-A 30 days challenge on how to use DuckDB for data analysis
+This is a 30 days challenge on how to use DuckDB for data analysis
 
 **Week 1 Challenge:** 
 
 _**Day 1 - Getting Started**_
 
-Create an account with Motherduck: Join the Motherduck community and sign up for an account on Motherduck:https://app.motherduck.com/?auth_flow=signup.
+We are to create an account with Motherduck: Join the Motherduck community and sign up for an account on Motherduck:https://app.motherduck.com/?auth_flow=signup.
 
 Install DuckDB: Get DuckDB up and running on your local machine. Follow the installation instructions for your specific operating system here: DuckDB Installation Guide: https://duckdb.org/docs/installation.
 
