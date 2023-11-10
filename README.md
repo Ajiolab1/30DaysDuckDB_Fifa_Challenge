@@ -14,7 +14,8 @@ Install DuckDB: Get DuckDB up and running on your local machine. Follow the inst
 Set up Power BI: Install Power BI on your computer and configure it. You can download Power BI from the official website here: https://powerbi.microsoft.com/en-us/downloads/
 
 _**Day 2-6**_
-To access the SQL queries for Day 2 to 6 [Click Day2-6](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%202-6.sql) 
+
+To access the SQL queries for Day 2 to 6: [Click Day2-6](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%202-6.sql) 
 1. Database Creation - Create a DuckDB database named "challenge."
 2. Data Loading - Load the provided CSV files into the DuckDB database. Ensure they are clean and ready for analysis.
 3. Database Access- Access the DuckDB database on Motherduck, our collaborative platform.
@@ -32,6 +33,7 @@ Handling 'Star' Characters:
 
 _**Day 7-9**_
 
+To access the SQL queries for Day 7 to 9: [Click Day7-9](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
 1. Identify players who possess high value but receive relatively low wages.
 2. Determine the count of players available in the dataset for each position.
 3. Find out which club has the largest representation of players in the dataset.
