@@ -98,7 +98,7 @@ We started week 3 with a new challenge to analyze Titanic dataset. See the tasks
 
 3: Explore the relationship between survival and age in the Titanic dataset. Calculate the survival rate for different age groups, providing insights into how age correlates with the likelihood of survival. Consider any notable patterns or trends in survival based on age.
 
-To access the SQL queries for Day 17 to 19: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2017-19.sql))
+To access the SQL queries for Day 17 to 19: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2017-19.sql)
 
 
 **Day 19-20**
