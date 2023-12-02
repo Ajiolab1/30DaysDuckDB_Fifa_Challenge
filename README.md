@@ -98,23 +98,22 @@ We started week 3 with a new challenge to analyze Titanic dataset. See the tasks
 
 3: Explore the relationship between survival and age in the Titanic dataset. Calculate the survival rate for different age groups, providing insights into how age correlates with the likelihood of survival. Consider any notable patterns or trends in survival based on age.
 
-    To access the SQL queries for Day 17 to 19: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
+To access the SQL queries for Day 17 to 19: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2017-19.sql))
 
 
 **Day 19-20**
 
 Day 19 to 20 is all about understanding Titles and Survival Rates from the Titanic dataset. The aim is to explore the relationship between passenger titles and their survival rates.
 
-Question 1
-a. Identify unique titles in the dataset.
+1a. Identify unique titles in the dataset.
 
 b. Consolidate infrequent titles into broader categories (e.g., Mr, Mrs, Miss, Master).
 
 c. Calculate and analyze survival rates for each title grouping.
 
-Question 2:  Calculate the survival based on being a woman or a child. This will evaluate the insights gained from a binary feature flagging passengers as women/children or adult men.
+2:  Calculate the survival based on being a woman or a child. This will evaluate the insights gained from a binary feature flagging passengers as women/children or adult men.
 
-To access the SQL queries for Day 19 to 20:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
+To access the SQL queries for Day 19 to 20:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2019-20.sql)
 
 
 
