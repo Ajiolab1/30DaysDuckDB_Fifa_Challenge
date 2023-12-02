@@ -46,6 +46,7 @@ To access the SQL queries for Day 2 to 6: [Click here](https://github.com/Ajiola
 To access the SQL queries for Day 7 to 9: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
 
 **Day 10**
+
 As part of the 30DaysDuckDBchallenge, for the day 10 we were tasked with undergoing a refresher course on how to use GitHub, create a repository, and add our SQL files for project documentation and reader easy accessibility. [Click here to see my reflections after completing the task](https://www.linkedin.com/posts/ajiola-oluwabukunmi_30daysduckdbchallenge-activity-7128844753659441152-tbW8?utm_source=share&utm_medium=member_desktop)
 
 **Day 11-12: Power BI Visualization Challenge**
@@ -71,12 +72,18 @@ Task 3: Player Position Analysis:
 - Make the chart interactive so users can select a position to view players with that role.
 
 Task 4: Top Players by Overall Rating:
--Create a table that lists the top players based on their "OVA" (overall rating) in descending order.
--Allow users to filter by a specific club to see its top-rated players.
+- Create a table that lists the top players based on their "OVA" (overall rating) in descending order.
+- Allow users to filter by a specific club to see its top-rated players.
 
 Interactive Dashboard:
 - Combine the visualizations from Tasks 4 to 7 in a single Power BI dashboard. Add slicers, filters, and drill-through actions to make the dashboard interactive.Include a summary or insights section to describe key findings.
 
+**Day 13-14**
+
+For the day 13-14, we were tasked with reading a book titled "DuckDB in Action". The book "DuckDB in Action" is a comprehensive guide that walks readers through the powerful capabilities of DuckDB, an embedded analytics database designed for efficient data processing and querying.
+
+**Day 15-16**
+Building on the previous assignment, additional materials, including PDFs and videos covering advanced SQL, were provided. In essence, the week was dedicated to immersive learning and revisiting key concepts. For the upcoming week, a new dataset named the Titanic dataset was assigned for loading into DuckDB. This dataset comprises three CSV files, namely gender submission, train, and test CSV. Our focus in the next week will revolve around analyzing these three datasets.
 
 ### Week 3 Challenge:
-For week 3 cha
+**Day 13-14**
