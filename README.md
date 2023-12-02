@@ -83,7 +83,30 @@ Interactive Dashboard:
 For the day 13-14, we were tasked with reading a book titled "DuckDB in Action". The book "DuckDB in Action" is a comprehensive guide that walks readers through the powerful capabilities of DuckDB, an embedded analytics database designed for efficient data processing and querying.
 
 **Day 15-16**
+
 Building on the previous assignment, additional materials, including PDFs and videos covering advanced SQL, were provided. In essence, the week was dedicated to immersive learning and revisiting key concepts. For the upcoming week, a new dataset named the Titanic dataset was assigned for loading into DuckDB. This dataset comprises three CSV files, namely gender submission, train, and test CSV. Our focus in the next week will revolve around analyzing these three datasets.
 
 ### Week 3 Challenge:
-**Day 13-14**
+
+**Day 17-19**
+
+We started week 3 with a new challenge to analyze Titanic dataset. See the tasks below;
+
+1: Perform an analysis of survival rates based on fare in the Titanic dataset. Utilize the ntile window function to evenly bucket passengers into 6 bins. Calculate statistics for each bin, including survival rates. Examine if there is a correlation between fare amounts and survival. Note any inconsistencies or noise in the fare column and present your findings.
+
+2: Conduct an analysis of survival rates based on sex in the Titanic dataset. Calculate the percentage of passengers who survived versus those who did not survive, focusing on the distinction between males and females. Express the survival rates and highlight any significant differences in survival ratios between genders. (use subqueries for higher marks)
+
+3: Explore the relationship between survival and age in the Titanic dataset. Calculate the survival rate for different age groups, providing insights into how age correlates with the likelihood of survival. Consider any notable patterns or trends in survival based on age.
+
+**Day 19-20**
+
+Day 19 to 20 is all about understanding Titles and Survival Rates from the Titanic dataset. The aim is to explore the relationship between passenger titles and their survival rates.
+
+Question 1
+a. Identify unique titles in the dataset.
+b. Consolidate infrequent titles into broader categories (e.g., Mr, Mrs, Miss, Master).
+c. Calculate and analyze survival rates for each title grouping.
+
+Question 2:  Calculate the survival based on being a woman or a child. This will evaluate the insights gained from a binary feature flagging passengers as women/children or adult men.
+
+
