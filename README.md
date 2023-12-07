@@ -45,5 +45,75 @@ To access the SQL queries for Day 2 to 6: [Click here](https://github.com/Ajiola
     
 To access the SQL queries for Day 7 to 9: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%207-9.sql)
 
+**Day 10**
+
+As part of the 30DaysDuckDBchallenge, for the day 10 we were tasked with undergoing a refresher course on how to use GitHub, create a repository, and add our SQL files for project documentation and reader easy accessibility. [Click here to see my reflections after completing the task](https://www.linkedin.com/posts/ajiola-oluwabukunmi_30daysduckdbchallenge-activity-7128844753659441152-tbW8?utm_source=share&utm_medium=member_desktop)
+
+**Day 11-12: Power BI Visualization Challenge**
+
+We were tasked to create a compelling visualizations and design an interactive dashboard based on two provided datasets(Fifa Challenge). 
+
+Instructions:
+
+- Data Import: In Power BI, import the two pre-cleaned datasets from DuckDB. Verify that the data has been imported correctly you mostly have to do this with CSV.
+- Data Transformation: Perform any necessary data cleaning and transformation within Power BI if you didn't do this early but if you did the first data cleaning task then ignore this one. Ensure that the data is ready for visualization.
+-Data Join: Combine the two datasets using a common column (e.g., "Name" or "LongName"). Choose the type of join that's most appropriate for your analysis.
+
+Task 1: Nationality Distribution:
+- Create a bar chart that displays the distribution of players' nationalities.
+- Allow users to filter by nationality to see players from specific countries.
+  
+Task 2: Age vs. Potential:
+- Build a scatter plot that explores the relationship between a player's "Age" and "POT" (potential).
+- Add a trendline to visualize the trend between age and potential.
+  
+Task 3: Player Position Analysis:
+- Generate a pie chart showing the distribution of player positions ("Positions" column).
+- Make the chart interactive so users can select a position to view players with that role.
+
+Task 4: Top Players by Overall Rating:
+- Create a table that lists the top players based on their "OVA" (overall rating) in descending order.
+- Allow users to filter by a specific club to see its top-rated players.
+
+Interactive Dashboard:
+- Combine the visualizations from Tasks 4 to 7 in a single Power BI dashboard. Add slicers, filters, and drill-through actions to make the dashboard interactive.Include a summary or insights section to describe key findings.
+
+**Day 13-14**
+
+For the day 13-14, we were tasked with reading a book titled "DuckDB in Action". The book "DuckDB in Action" is a comprehensive guide that walks readers through the powerful capabilities of DuckDB, an embedded analytics database designed for efficient data processing and querying.
+
+**Day 15-16**
+
+Building on the previous assignment, additional materials, including PDFs and videos covering advanced SQL, were provided. In essence, the week was dedicated to immersive learning and revisiting key concepts. For the upcoming week, a new dataset named the Titanic dataset was assigned for loading into DuckDB. This dataset comprises three CSV files, namely gender submission, train, and test CSV. Our focus in the next week will revolve around analyzing these three datasets.
+
+### Week 3 Challenge:
+
+**Day 17-19**
+
+We started week 3 with a new challenge to analyze Titanic dataset. See the tasks below;
+
+1: Perform an analysis of survival rates based on fare in the Titanic dataset. Utilize the ntile window function to evenly bucket passengers into 6 bins. Calculate statistics for each bin, including survival rates. Examine if there is a correlation between fare amounts and survival. Note any inconsistencies or noise in the fare column and present your findings.
+
+2: Conduct an analysis of survival rates based on sex in the Titanic dataset. Calculate the percentage of passengers who survived versus those who did not survive, focusing on the distinction between males and females. Express the survival rates and highlight any significant differences in survival ratios between genders. (use subqueries for higher marks)
+
+3: Explore the relationship between survival and age in the Titanic dataset. Calculate the survival rate for different age groups, providing insights into how age correlates with the likelihood of survival. Consider any notable patterns or trends in survival based on age.
+
+To access the SQL queries for Day 17 to 19: [Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2017-19.sql)
+
+
+**Day 19-20**
+
+Day 19 to 20 is all about understanding Titles and Survival Rates from the Titanic dataset. The aim is to explore the relationship between passenger titles and their survival rates.
+
+1a. Identify unique titles in the dataset.
+
+b. Consolidate infrequent titles into broader categories (e.g., Mr, Mrs, Miss, Master).
+
+c. Calculate and analyze survival rates for each title grouping.
+
+2:  Calculate the survival based on being a woman or a child. This will evaluate the insights gained from a binary feature flagging passengers as women/children or adult men.
+
+To access the SQL queries for Day 19 to 20:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2019-20.sql)
+
 
 
