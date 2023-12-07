@@ -116,9 +116,9 @@ c. Calculate and analyze survival rates for each title grouping.
 To access the SQL queries for Day 19 to 20:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2019-20.sql)
 
 
-**Day 20-23**
+**Day 21-23**
 
-For Day 20 to 23, the goal is to pick insigts from the Name, Ticket, Cabin, SibSp and Parch columns in correlation with the survival rates.
+For Day 21 to 23, the goal is to pick insigts from the Name, Ticket, Cabin, SibSp and Parch columns in correlation with the survival rates.
 
 1: Survival based on Cabin Level- Write an SQL query to display the number of passengers, their survival rate, and the cabin level they belong to. The assumption here is that the same ticket number defines passengers traveling together. Please consider this assumption while formulating your query.
 
@@ -129,9 +129,11 @@ For Day 20 to 23, the goal is to pick insigts from the Name, Ticket, Cabin, SibS
 Assumption Metrics:
 
 Task 1: Same ticket number defines passengers traveling together.
+
 Task 2: Solo travelers if the individual is the only passenger attached to a ticket.
+
 Task 3: Family size is calculated by adding SibSp, ParCh, and the current passenger (+1) but determined at the maximum family size based on ticket number and surname.
 
-To access the SQL queries for Day 20 to 23:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2019-20.sql)
+To access the SQL queries for Day 21 to 23:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2021-23.sql)
 
 
