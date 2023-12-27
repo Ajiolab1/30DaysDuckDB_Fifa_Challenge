@@ -89,6 +89,9 @@ For the day 13-14, we were tasked with reading a book titled "DuckDB in Action".
 
 Building on the previous assignment, additional materials, including PDFs and videos covering advanced SQL, were provided. In essence, the week was dedicated to immersive learning and revisiting key concepts. For the upcoming week, a new dataset named the Titanic dataset was assigned for loading into DuckDB. This dataset comprises three CSV files, namely gender submission, train, and test CSV. Our focus in the next week will revolve around analyzing these three datasets.
 
+
+# 30DaysDuckDB_Titanic_Challenge
+
 ### Week 3 Challenge:
 
 **Day 17-19**
