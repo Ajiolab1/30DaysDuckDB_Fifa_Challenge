@@ -1,5 +1,5 @@
 # 30DaysDuckDB_Fifa_Challenge
-![](titanic1.jpg)
+![](fftg_web_banner-02_0.png)
 
 
 This is a 30 days challenge on how to use DuckDB for data analysis
@@ -89,8 +89,6 @@ Building on the previous assignment, additional materials, including PDFs and vi
 
 
 # 30DaysDuckDB_Titanic_Challenge
-
-![](titanic1.jpg)
 
 ### Week 3 Challenge:
 
