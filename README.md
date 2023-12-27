@@ -137,3 +137,15 @@ Task 3: Family size is calculated by adding SibSp, ParCh, and the current passen
 To access the SQL queries for Day 21 to 23:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2021-23.sql)
 
 
+**Day 24-26**
+
+For Day 24 to 26, the goal is to work on the survival rates.
+
+1: What was the survival rate of males in the third passenger class including  women OR children. If you remember from the movie, women and children were first ones allowed for the rescue boats so does the above percentage prove that quote? Prove that with a screenshot of your query using SQL.
+
+2: What is the percentage survived between Sex, Embarked, and PClass
+
+3: If you were to advise your chances of survival on the Titanic, what would you say? If you are of the below data (Sex:Male, Age: 36, Pclass:2, Emabrked:C)
+
+To access the SQL queries for Day 24 to 26:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2024-26.sql)
+
