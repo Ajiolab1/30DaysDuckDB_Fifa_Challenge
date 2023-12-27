@@ -149,3 +149,50 @@ For Day 24 to 26, the goal is to work on the survival rates.
 
 To access the SQL queries for Day 24 to 26:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2024-26.sql)
 
+
+
+**Day 27-30**
+
+For Day 27 to 30, we were tasked to create a comprehensive dashboard in either Power BI or FusionCharts based on the provided analysis questions and findings related to the Titanic dataset.
+
+Data Source: Utilize the Titanic dataset. Make sure your data is clean and properly formatted.
+
+1: Survival Based on Fare Analysis
+
+Create a visual representation of survival rates based on fare using the ntile window function.Present statistics for each fare bin.Analyze and visually show any correlation between fare amounts and survival.Identify and visualize any inconsistencies or noise in the fare column.
+
+2: Survival Based on Sex Analysis
+
+Build a visual representation highlighting the survival rates for males and females.Use subqueries to enhance the analysis.Clearly present the percentage of passengers who survived versus those who did not, emphasizing gender distinctions.
+
+3: Survival Based on Age Analysis
+
+Create a visual breakdown of survival rates for different age groups.Provide insights into how age correlates with the likelihood of survival.Identify and visualize any notable patterns or trends in survival based on age.
+
+4: Understanding Titles and Survival Rates
+
+Implement visuals to display survival rates for different passenger titles.Highlight any trends or patterns related to titles and survival.Survival Based on Being a Woman or a Child 
+
+Develop visuals to illustrate the survival rates based on the binary feature flagging passengers as women/children or adult men.
+
+5: Survival Based on Cabin Level 
+
+Design a visual representation of the number of passengers, their survival rate, and the cabin level they belong to.Consider the assumption that the same ticket number defines passengers traveling together. Solo Travelers, Family Travelers, and Mix Group. Create visuals categorizing passengers into solo travelers, those with a family, and those in a mixed group based on the provided assumption.
+
+6: Family Size Calculation 
+
+Develop visuals that demonstrate family size calculations based on SibSp, ParCh, and the current passenger. Use a mapping SQL subquery to match family size with the same ticket number and surname.
+
+7: Additional Challenge
+
+Display the survival rate of males in the third passenger class.Create visuals showcasing the survival rates based on Sex, Embarked, and PClass.Provide a visual representation advising the chances of survival for a specific passenger profile (Sex: Male, Age: 36, Pclass: 2, Embarked: C).
+
+Submission:
+
+Prepare and submit the dashboard file or a link to the online dashboard platform. Include brief explanations or insights gained from each visual representation.
+
+Note:
+
+Participants are encouraged to be creative in designing the dashboard and ensuring it effectively communicates the analysis findings.
+Use appropriate visualization types for each analysis question to enhance clarity.
+Feel free to include additional relevant insights that could further enrich the dashboard.
