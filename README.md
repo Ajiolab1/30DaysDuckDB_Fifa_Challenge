@@ -1,9 +1,8 @@
 # 30DaysDuckDB_Fifa_Challenge
 ![](fftg_web_banner-02_0.png)
 
-![](fftg_web_banner-02_0.png)
-
 ![](titanic.png)
+
 
 This is a 30 days challenge on how to use DuckDB for data analysis
 
