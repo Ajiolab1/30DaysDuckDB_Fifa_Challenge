@@ -116,4 +116,24 @@ c. Calculate and analyze survival rates for each title grouping.
 To access the SQL queries for Day 19 to 20:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2019-20.sql)
 
 
+**Day 21-23**
+
+For Day 21 to 23, the goal is to pick insigts from the Name, Ticket, Cabin, SibSp and Parch columns in correlation with the survival rates.
+
+1: Survival based on Cabin Level- Write an SQL query to display the number of passengers, their survival rate, and the cabin level they belong to. The assumption here is that the same ticket number defines passengers traveling together. Please consider this assumption while formulating your query.
+
+2: Solo Travelers, Family Travelers, and Mix Group- Using SQL, categorize passengers into solo travelers, those traveling with a family, and those in a mixed group. The assumption for this task is based on ticket number and surname extracted from the original Name feature. If an individual is the only passenger attached to a ticket, consider them a solo traveler. Please assume that families may have other members on different tickets.
+
+3: Family Size Calculation- Write an SQL query to determine the family size for each passenger. The assumption for family size calculation is to add SibSp, ParCh, and the current passenger (+1). However, this is determined at the maximum family size based on ticket number and surname. Assume that families traveled together on the same ticket. Use a mapping SQL subquery to match the sum of SibSp, ParCh, and the current passenger with the family size, considering the same ticket number and surname.
+
+Assumption Metrics:
+
+Task 1: Same ticket number defines passengers traveling together.
+
+Task 2: Solo travelers if the individual is the only passenger attached to a ticket.
+
+Task 3: Family size is calculated by adding SibSp, ParCh, and the current passenger (+1) but determined at the maximum family size based on ticket number and surname.
+
+To access the SQL queries for Day 21 to 23:[Click here](https://github.com/Ajiolab1/30DaysDuckDB_Fifa_Challenge/blob/main/Day%2021-23.sql)
+
 

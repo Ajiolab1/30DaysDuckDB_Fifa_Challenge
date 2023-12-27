@@ -1,4 +1,3 @@
-
 -- Survival based on Cabin Level
 WITH CabinData AS ( SELECT Ticket,
     MAX(CASE WHEN Cabin IS NOT NULL THEN SUBSTRING(Cabin FROM 1 FOR 1) END) AS CabinLevel,
