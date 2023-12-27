@@ -90,7 +90,7 @@ Building on the previous assignment, additional materials, including PDFs and vi
 
 # 30DaysDuckDB_Titanic_Challenge
 
-![](titanic.jpg)
+![](titanic1.jpg)
 
 ### Week 3 Challenge:
 
